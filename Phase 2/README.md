@@ -38,9 +38,6 @@ Given a value k, create a location-location similarity matrix and report top-k l
 ## Task 7
 Given a value k, create a user-image-location tensor, perform rank-k CP decomposition and finally create k non-overlapping groups of users, images and locations based on the discovered latent semantics.
 
-#### Run the below command to create a tensor of users, images, and locations
-`python create_tensor.py`
-
 `python task7.py`
 
 
