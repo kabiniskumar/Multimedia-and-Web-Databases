@@ -33,7 +33,7 @@ Implement similar image search using this index structure and a combined visual 
 `python task5a.py <L> <K>`
 
 `python task5b.py <query imageID> <T>` <br /> 
-The output will be displayed on the webpage (http://127.0.0.1:5000/)
+The output will be displayed on the webpage (http://127.0.0.1:5000/)  <br /> 
 Image IDs will also be displayed on the terminal along with the number of total unique candidates considered.
 
 ## Task 6
